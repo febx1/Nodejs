@@ -1,0 +1,10 @@
+use db
+show dbs
+show collections
+db.user.find()
+db.user.find().pretty()
+
+
+
+
+collections == tables
